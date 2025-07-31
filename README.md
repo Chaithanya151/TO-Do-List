@@ -16,7 +16,7 @@ This is a simple **To-Do List** web application built using **HTML**, **CSS (Boo
 
 ## 📸 Screenshot
 
-![To-Do List Screenshot]("D:\New folder\Screenshot 2025-07-31 081920.png") <!-- Optional: You can add a screenshot image here -->
+![To-Do List Screenshot](Screenshot.png) <!-- Optional: You can add a screenshot image here -->
 
 ---
 
